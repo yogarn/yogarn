@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**yogarn/yogarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yoga (or whatever you prefer)—just another dev trying to survive all this code stuff.
 
-Here are some ideas to get you started:
+### 💻 Currently:
+- Building whatever works (mostly in JS, TypeScript, Golang, or C++)
+- Breaking things in VSCode and Fedora
+- Touching too many things and mastering none
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning:
+- Backend development (honestly sometimes I'm just tired of learning all this)
+- Docker, CI/CD, and all that backend black magic
+- Internet of Things (yeah, kind of my way to stop staring at screens all day)
+
+> [!NOTE]
+> Don’t hesitate to click that follow button or reach out. I promise I won't bite.
