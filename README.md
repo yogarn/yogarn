@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Yoga (or whatever you prefer)—just another dev trying to survive all this code stuff.
+I'm Nala (or whatever you prefer)—just another dev trying to survive the harsh reality of life.
 
 ### 💻 Currently:
 - Building whatever works (mostly in JS, TypeScript, Golang, or C++)
@@ -10,9 +10,10 @@ I'm Yoga (or whatever you prefer)—just another dev trying to survive all this 
 ### 📚 Learning:
 - Backend development (honestly sometimes I'm just tired of learning all this)
 - Docker, CI/CD, and all that backend black magic
-- Internet of Things (yeah, kind of my way to stop staring at screens all day)
+- Internet of Things, Wireless Sensor Networks, and all those unspeakable protocols
 
 ---
 
 > [!NOTE]
 > Don’t hesitate to click that follow button or reach out. I promise I won't bite.
+
